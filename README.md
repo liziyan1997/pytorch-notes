@@ -10,4 +10,4 @@ some notes when learning pytorch
 references: <br>
 [1] https://me.csdn.net/qq_36556893 <br>
 [2] http://deanhan.com/2018/07/26/vgg16/ <br>
-          
+[3] https://pytorch.org/       
